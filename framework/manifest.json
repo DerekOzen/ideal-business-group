@@ -1,0 +1,7 @@
+{
+  "version": "1.3.43",
+  "files": [
+    "components/mockup-page.tsx",
+    "functions/admin/[[path]].js"
+  ]
+}
