@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Tax Accountants Inner West Sydney | Ideal Business Group",
@@ -9,10 +9,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-08-30T22:37:58.067Z",
+    "status": "published",
+    "updatedAt": "2026-08-30T22:38:11.047Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-30T22:37:58.067Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": true
   }
 ]
