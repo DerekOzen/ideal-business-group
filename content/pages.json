@@ -498,7 +498,7 @@
   },
   {
     "id": "pg-32",
-    "path": "/contact-us-ideal-business-group",
+    "path": "/contact-us",
     "type": "page",
     "title": "Contact Us | Ideal Business Group",
     "seoTitle": "Contact Us | Ideal Business Group",
@@ -506,10 +506,10 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T23:00:05.366Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T23:00:05.366Z",
+    "updatedAt": "2026-08-30T23:04:18.979Z",
     "updatedBy": "derek"
   },
   {
