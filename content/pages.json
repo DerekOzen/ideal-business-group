@@ -215,7 +215,7 @@
   },
   {
     "id": "pg-14",
-    "path": "/finance-advisory-smsf-and-virtual-cfo",
+    "path": "/finance-advisory",
     "type": "page",
     "title": "Finance & Advisory, SMSF and Virtual CFO | Ideal Business Group",
     "seoTitle": "Finance & Advisory, SMSF and Virtual CFO | Ideal Business Group",
@@ -226,8 +226,9 @@
     "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-31T02:22:23.471Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-08-31T03:45:03.591Z",
+    "updatedBy": "joshua",
+    "category": "Services"
   },
   {
     "id": "pg-15",
