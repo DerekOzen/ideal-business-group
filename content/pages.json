@@ -98,7 +98,7 @@
   },
   {
     "id": "pg-7",
-    "path": "/business-tax-planning-accountants-ideal-business-group",
+    "path": "/business-tax-planning-accountants",
     "type": "page",
     "title": "Business Tax Planning Accountants | Ideal Business Group",
     "seoTitle": "Business Tax Planning Accountants | Ideal Business Group",
@@ -106,11 +106,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T22:39:16.311Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:21:44.290Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-8",
