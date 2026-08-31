@@ -50,7 +50,7 @@
   },
   {
     "id": "pg-4",
-    "path": "/tax-business-insights-blog-ideal-business-group",
+    "path": "/tax-business-insights-blog",
     "type": "page",
     "title": "Tax & Business Insights Blog | Ideal Business Group",
     "seoTitle": "Tax & Business Insights Blog | Ideal Business Group",
@@ -58,11 +58,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T22:39:16.311Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:21:25.289Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-5",
