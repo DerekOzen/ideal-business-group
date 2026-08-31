@@ -114,7 +114,7 @@
   },
   {
     "id": "pg-8",
-    "path": "/coming-soon-ideal-business-group",
+    "path": "/coming-soon",
     "type": "page",
     "title": "Coming Soon | Ideal Business Group",
     "seoTitle": "Coming Soon | Ideal Business Group",
@@ -122,11 +122,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T22:39:16.311Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:21:58.678Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-9",
