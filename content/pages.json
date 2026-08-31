@@ -364,7 +364,7 @@
   },
   {
     "id": "pg-23",
-    "path": "/accounting-tax-services-australia",
+    "path": "/services",
     "type": "page",
     "title": "Accounting & Tax Services Australia | Ideal Business Group",
     "seoTitle": "Accounting & Tax Services Australia | Ideal Business Group",
@@ -375,8 +375,9 @@
     "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-31T02:23:46.945Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-08-31T03:49:34.701Z",
+    "updatedBy": "joshua",
+    "category": "Services"
   },
   {
     "id": "pg-24",
