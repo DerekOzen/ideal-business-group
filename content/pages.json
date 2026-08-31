@@ -242,7 +242,7 @@
   },
   {
     "id": "pg-16",
-    "path": "/fringe-benefits-tax-fbt-return-services-ideal-business-group",
+    "path": "/fringe-benefits-tax-fbt-return-services",
     "type": "page",
     "title": "Fringe Benefits Tax (FBT) Return Services | Ideal Business Group",
     "seoTitle": "Fringe Benefits Tax (FBT) Return Services | Ideal Business Group",
@@ -250,11 +250,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T22:39:16.311Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:22:36.284Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-17",
