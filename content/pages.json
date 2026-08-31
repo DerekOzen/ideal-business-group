@@ -178,7 +178,7 @@
   },
   {
     "id": "pg-12",
-    "path": "/director-id-application-guide-ideal-business-group",
+    "path": "/director-id-application-guide",
     "type": "page",
     "title": "Director ID Application Guide | Ideal Business Group",
     "seoTitle": "Director ID Application Guide | Ideal Business Group",
@@ -186,11 +186,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T22:39:16.311Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:22:18.222Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-13",
