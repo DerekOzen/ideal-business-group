@@ -474,11 +474,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "createdAt": "2026-08-30T23:00:05.366Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T23:00:05.366Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:24:54.483Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-31",
