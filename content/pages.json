@@ -434,7 +434,7 @@
   },
   {
     "id": "pg-28",
-    "path": "/australian-tax-facts-reference-guide-ideal-business-group",
+    "path": "/australian-tax-facts-reference-guide",
     "type": "page",
     "title": "Australian Tax Facts & Reference Guide | Ideal Business Group",
     "seoTitle": "Australian Tax Facts & Reference Guide | Ideal Business Group",
@@ -442,11 +442,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T22:39:16.311Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:24:17.702Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-29",
