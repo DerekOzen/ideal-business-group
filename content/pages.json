@@ -258,7 +258,7 @@
   },
   {
     "id": "pg-17",
-    "path": "/important-links-ato-tax-rates-dates-ideal-business-group",
+    "path": "/important-links-ato-tax-rates-dates",
     "type": "page",
     "title": "Important Links | ATO Tax Rates & Dates | Ideal Business Group",
     "seoTitle": "Important Links | ATO Tax Rates & Dates | Ideal Business Group",
@@ -266,11 +266,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T22:39:16.311Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:22:56.924Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-18",
