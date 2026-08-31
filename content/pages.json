@@ -146,7 +146,7 @@
   },
   {
     "id": "pg-10",
-    "path": "/new-client-form-for-companies-trusts-ideal-business-group",
+    "path": "/new-client-form-for-companies-trusts",
     "type": "page",
     "title": "New Client Form for Companies & Trusts | Ideal Business Group",
     "seoTitle": "New Client Form for Companies & Trusts | Ideal Business Group",
@@ -154,11 +154,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T22:39:16.311Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:22:12.900Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-11",
