@@ -402,7 +402,7 @@
   },
   {
     "id": "pg-26",
-    "path": "/tax-accounting-services-sydney-ideal-business-group",
+    "path": "/tax-accounting-services-sydney",
     "type": "page",
     "title": "Tax & Accounting Services Sydney | Ideal Business Group",
     "seoTitle": "Tax & Accounting Services Sydney | Ideal Business Group",
@@ -410,11 +410,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T22:39:16.311Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:24:06.224Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-27",
