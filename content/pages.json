@@ -34,7 +34,7 @@
   },
   {
     "id": "pg-3",
-    "path": "/annual-trust-tax-return-services-ideal-business-group",
+    "path": "/annual-trust-tax-return-services",
     "type": "page",
     "title": "Annual Trust Tax Return Services | Ideal Business Group",
     "seoTitle": "Annual Trust Tax Return Services | Ideal Business Group",
@@ -42,11 +42,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T22:39:16.311Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:21:02.617Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-4",
