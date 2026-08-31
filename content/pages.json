@@ -45,8 +45,9 @@
     "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-31T03:38:35.201Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-08-31T03:41:14.262Z",
+    "updatedBy": "joshua",
+    "category": "Services"
   },
   {
     "id": "pg-4",
