@@ -290,7 +290,7 @@
   },
   {
     "id": "pg-19",
-    "path": "/individual-tax-return-accountants-ideal-business-group",
+    "path": "/individual-tax-return-accountants",
     "type": "page",
     "title": "Individual Tax Return Accountants | Ideal Business Group",
     "seoTitle": "Individual Tax Return Accountants | Ideal Business Group",
@@ -298,11 +298,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T22:39:16.311Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:23:10.228Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-20",
