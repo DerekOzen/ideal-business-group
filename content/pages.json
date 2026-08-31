@@ -347,7 +347,7 @@
   },
   {
     "id": "pg-22",
-    "path": "/accounting-service-packages-pricing",
+    "path": "/service-packages",
     "type": "page",
     "title": "Accounting Service Packages & Pricing | Ideal Business Group",
     "seoTitle": "Accounting Service Packages & Pricing | Ideal Business Group",
@@ -358,7 +358,7 @@
     "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-31T02:23:23.564Z",
+    "updatedAt": "2026-08-31T03:45:46.103Z",
     "updatedBy": "joshua"
   },
   {
