@@ -260,8 +260,9 @@
     "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-31T03:43:48.914Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-08-31T03:48:28.069Z",
+    "updatedBy": "joshua",
+    "category": "Services"
   },
   {
     "id": "pg-17",
