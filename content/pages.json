@@ -130,7 +130,7 @@
   },
   {
     "id": "pg-9",
-    "path": "/company-tax-return-services-australia",
+    "path": "/company-tax-return",
     "type": "page",
     "title": "Company Tax Return Services Australia | Ideal Business Group",
     "seoTitle": "Company Tax Return Services Australia | Ideal Business Group",
@@ -141,8 +141,9 @@
     "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-31T02:22:05.769Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-08-31T02:54:49.224Z",
+    "updatedBy": "joshua",
+    "category": "Services"
   },
   {
     "id": "pg-10",
