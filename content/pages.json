@@ -306,7 +306,7 @@
   },
   {
     "id": "pg-20",
-    "path": "/outsourced-payroll-services-australia-ideal-business-group",
+    "path": "/outsourced-payroll-services-australia",
     "type": "page",
     "title": "Outsourced Payroll Services Australia | Ideal Business Group",
     "seoTitle": "Outsourced Payroll Services Australia | Ideal Business Group",
@@ -314,11 +314,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T22:39:16.311Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:23:15.610Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-21",
