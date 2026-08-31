@@ -82,7 +82,7 @@
   },
   {
     "id": "pg-6",
-    "path": "/business-registration-services-abn-gst-payg-ideal-business-group",
+    "path": "/business-registration-services-abn-gst-payg",
     "type": "page",
     "title": "Business Registration Services ABN, GST & PAYG | Ideal Business Group",
     "seoTitle": "Business Registration Services ABN, GST & PAYG | Ideal Business Group",
@@ -90,11 +90,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T22:39:16.311Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:21:39.206Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-7",
