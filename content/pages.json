@@ -515,7 +515,7 @@
   },
   {
     "id": "pg-33",
-    "path": "/about-us",
+    "path": "/about",
     "type": "page",
     "title": "About Us | Ideal Business Group",
     "seoTitle": "About Us | Ideal Business Group",
@@ -526,7 +526,7 @@
     "status": "published",
     "createdAt": "2026-08-30T23:00:05.366Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T23:00:38.922Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:36:46.349Z",
+    "updatedBy": "joshua"
   }
 ]
