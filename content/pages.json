@@ -162,7 +162,7 @@
   },
   {
     "id": "pg-11",
-    "path": "/cookie-policy-ideal-business-group",
+    "path": "/cookie-policy",
     "type": "page",
     "title": "Cookie Policy | Ideal Business Group",
     "seoTitle": "Cookie Policy | Ideal Business Group",
@@ -170,11 +170,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T22:39:16.311Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T00:32:45.229Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-12",
