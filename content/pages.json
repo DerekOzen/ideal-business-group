@@ -450,7 +450,7 @@
   },
   {
     "id": "pg-29",
-    "path": "/terms-of-engagement-ideal-business-group",
+    "path": "/terms-of-engagement",
     "type": "page",
     "title": "Terms of Engagement | Ideal Business Group",
     "seoTitle": "Terms of Engagement | Ideal Business Group",
@@ -458,11 +458,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T22:39:16.311Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:12:00.104Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-30",
