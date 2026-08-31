@@ -386,7 +386,7 @@
   },
   {
     "id": "pg-25",
-    "path": "/new-client-form-for-smsfs-ideal-business-group",
+    "path": "/new-client-form-for-smsfs",
     "type": "page",
     "title": "New Client Form for SMSFs | Ideal Business Group",
     "seoTitle": "New Client Form for SMSFs | Ideal Business Group",
@@ -394,11 +394,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T22:39:16.311Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:25:41.405Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-26",
