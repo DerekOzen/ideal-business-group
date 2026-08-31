@@ -370,7 +370,7 @@
   },
   {
     "id": "pg-24",
-    "path": "/setting-up-your-myid-step-by-step-ideal-business-group",
+    "path": "/setting-up-your-myid-step-by-step",
     "type": "page",
     "title": "Setting Up Your myID Step by Step | Ideal Business Group",
     "seoTitle": "Setting Up Your myID Step by Step | Ideal Business Group",
@@ -378,11 +378,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T22:39:16.311Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:23:55.412Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-25",
