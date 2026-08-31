@@ -482,7 +482,7 @@
   },
   {
     "id": "pg-31",
-    "path": "/our-trusted-partners-ideal-business-group",
+    "path": "/our-trusted-partners",
     "type": "page",
     "title": "Our Trusted Partners | Ideal Business Group",
     "seoTitle": "Our Trusted Partners | Ideal Business Group",
@@ -490,11 +490,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-30T23:00:05.366Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-30T23:00:05.366Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-31T02:24:31.452Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-32",
