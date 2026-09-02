@@ -562,7 +562,7 @@
   },
   {
     "id": "pg-35",
-    "path": "/individual-tax-returns123",
+    "path": "/individual-tax-returns",
     "type": "page",
     "title": "Individual Tax Returns",
     "seoTitle": "Individual Tax Returns Services Australia Wide | Ideal Business Group",
@@ -571,7 +571,7 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
     "status": "published",
-    "updatedAt": "2026-09-02T09:03:40.385Z",
+    "updatedAt": "2026-09-02T09:21:55.528Z",
     "updatedBy": "joshua",
     "createdAt": "2026-09-02T08:58:36.282Z",
     "createdBy": "joshua"
