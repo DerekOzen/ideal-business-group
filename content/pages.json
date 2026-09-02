@@ -558,5 +558,21 @@
     "createdAt": "2026-09-02T06:37:46.573Z",
     "createdBy": "joshua",
     "category": "Services"
+  },
+  {
+    "id": "pg-35",
+    "path": "/individual-tax-returns123",
+    "type": "page",
+    "title": "Individual Tax Returns",
+    "seoTitle": "Individual Tax Returns Services Australia Wide | Ideal Business Group",
+    "seoDescription": "Individual tax return preparation and lodgement to maximise your refund, by registered tax agents and a CPA-qualified team, Australia wide. Call 1300 043 325.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-09-02T08:58:36.282Z",
+    "updatedBy": "joshua",
+    "createdAt": "2026-09-02T08:58:36.282Z",
+    "createdBy": "joshua"
   }
 ]
