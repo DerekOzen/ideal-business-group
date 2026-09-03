@@ -780,5 +780,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-03T08:19:17.586Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-48",
+    "path": "/service-packages",
+    "type": "page",
+    "title": "Accounting Service Packages & Pricing | Ideal Business Group",
+    "seoTitle": "Accounting Service Packages & Pricing | Ideal Business Group",
+    "seoDescription": "Fixed-fee monthly accounting packages for companies, trusts, sole traders, individuals, SMSFs and payroll. Compare Standard and Premium inclusions.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-03T09:30:57.302Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-03T09:30:57.302Z",
+    "createdBy": "vipin"
   }
 ]
