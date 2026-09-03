@@ -729,5 +729,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-03T07:29:55.847Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-45",
+    "path": "/finance-advisory",
+    "type": "service",
+    "title": "Finance & Advisory, SMSF and Virtual CFO | Ideal Business Group",
+    "seoTitle": "Finance & Advisory Services Australia Wide | Ideal Business Group",
+    "seoDescription": "Finance and advisory support including SMSF, business advisory and virtual CFO, delivered through Ideal Business Group's trusted licensed partners, Australia wide. Call 1300 043 325.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-03T07:47:00.936Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-03T07:47:00.936Z",
+    "createdBy": "vipin"
   }
 ]
