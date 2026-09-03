@@ -763,5 +763,21 @@
     "createdAt": "2026-09-03T08:00:49.100Z",
     "createdBy": "vipin",
     "isHome": false
+  },
+  {
+    "id": "pg-47",
+    "path": "/services",
+    "type": "service",
+    "title": "Accounting & Tax Services Australia | Ideal Business Group",
+    "seoTitle": "Accounting & Tax Services Australia | Ideal Business Group",
+    "seoDescription": "Tax and accounting, finance and advisory, property and insurance. Every service Ideal Business Group offers, in one place, delivered by registered tax agents.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-03T08:19:17.586Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-03T08:19:17.586Z",
+    "createdBy": "vipin"
   }
 ]
