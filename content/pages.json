@@ -680,5 +680,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-03T07:10:25.998Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-42",
+    "path": "/financial-statements",
+    "type": "service",
+    "title": "Financial Statement Preparation Services | Ideal Business Group",
+    "seoTitle": "Financial Statements Services Australia Wide | Ideal Business Group",
+    "seoDescription": "Annual financial statement preparation and clear reporting you can act on, by a CPA-qualified team, servicing clients Australia wide. Call 1300 043 325.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-09-03T07:27:10.060Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-03T07:27:10.060Z",
+    "createdBy": "vipin"
   }
 ]
