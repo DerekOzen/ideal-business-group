@@ -644,5 +644,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-03T06:33:23.223Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-40",
+    "path": "/business-registrations",
+    "type": "service",
+    "title": "Business Registration Services ABN, GST & PAYG | Ideal Business Group",
+    "seoTitle": "Business Registrations Services Australia Wide | Ideal Business Group",
+    "seoDescription": "Business registration help for ABN, GST, PAYG and company setup, by a registered tax agent and CPA-qualified team servicing clients Australia wide. Call 1300 043 325.",
+    "layout": "mockup",
+    "headerPartId": "header-8",
+    "footerPartId": "footer-8",
+    "status": "draft",
+    "updatedAt": "2026-09-03T06:58:20.834Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-03T06:58:20.834Z",
+    "createdBy": "vipin"
   }
 ]
