@@ -696,5 +696,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-03T07:27:10.060Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-43",
+    "path": "/fringe-benefits-tax-return",
+    "type": "service",
+    "title": "Fringe Benefits Tax (FBT) Return Services | Ideal Business Group",
+    "seoTitle": "Fringe Benefits Tax Return Services Australia Wide | Ideal Business Group",
+    "seoDescription": "Fringe Benefits Tax (FBT) return preparation and lodgement by registered tax agents, servicing clients Australia wide. Call 1300 043 325.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-03T07:28:46.588Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-03T07:28:46.588Z",
+    "createdBy": "vipin"
   }
 ]
