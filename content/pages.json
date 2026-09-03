@@ -593,5 +593,21 @@
     "createdAt": "2026-09-03T05:04:24.280Z",
     "createdBy": "vipin",
     "isHome": true
+  },
+  {
+    "id": "pg-37",
+    "path": "/company-tax-return",
+    "type": "service",
+    "title": "Company Tax Return Services Australia | Ideal Business Group",
+    "seoTitle": "Company Tax Return Services Australia Wide | Ideal Business Group",
+    "seoDescription": "Company tax return preparation and lodgement by registered tax agents and a CPA-qualified team, servicing clients Australia wide. Call 1300 043 325.",
+    "layout": "mockup",
+    "headerPartId": "header-5",
+    "footerPartId": "footer-5",
+    "status": "draft",
+    "updatedAt": "2026-09-03T06:10:55.849Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-03T06:10:55.849Z",
+    "createdBy": "vipin"
   }
 ]
