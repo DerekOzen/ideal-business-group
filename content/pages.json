@@ -578,7 +578,7 @@
   },
   {
     "id": "pg-36",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Tax Accountants Australia Wide | Ideal Business Group",
@@ -586,10 +586,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-4",
-    "status": "draft",
-    "updatedAt": "2026-09-03T05:04:24.280Z",
+    "status": "published",
+    "updatedAt": "2026-09-03T05:05:31.597Z",
     "updatedBy": "vipin",
     "createdAt": "2026-09-03T05:04:24.280Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": true
   }
 ]
