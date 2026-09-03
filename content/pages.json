@@ -627,5 +627,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-03T06:16:25.815Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-39",
+    "path": "/business-activity-statements",
+    "type": "service",
+    "title": "Business Activity Statement (BAS) Services | Ideal Business Group",
+    "seoTitle": "Business Activity Statements Services Australia Wide | Ideal Business Group",
+    "seoDescription": "BAS lodgement for GST, PAYG and instalments, prepared and lodged on time by registered tax agents, servicing clients Australia wide. Call 1300 043 325.",
+    "layout": "mockup",
+    "headerPartId": "header-7",
+    "footerPartId": "footer-7",
+    "status": "draft",
+    "updatedAt": "2026-09-03T06:33:23.223Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-03T06:33:23.223Z",
+    "createdBy": "vipin"
   }
 ]
