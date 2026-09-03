@@ -389,12 +389,12 @@
     "seoDescription": "How to set up your myID (formerly myGovID) and link it to your business, explained in plain English by Ideal Business Group.",
     "layout": "mockup",
     "headerPartId": "header-1",
-    "footerPartId": "footer-4",
+    "footerPartId": "footer-1",
     "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T04:54:29.301Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-08-31T03:56:11.738Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-25",
@@ -405,12 +405,12 @@
     "seoDescription": "Start as a new self-managed super fund client of Ideal Business Group. Complete the onboarding form and our SMSF team will be in touch.",
     "layout": "mockup",
     "headerPartId": "header-1",
-    "footerPartId": "footer-1",
+    "footerPartId": "footer-4",
     "status": "published",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-31T03:58:54.590Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-03T04:54:32.117Z",
+    "updatedBy": "vipin"
   },
   {
     "id": "pg-26",
