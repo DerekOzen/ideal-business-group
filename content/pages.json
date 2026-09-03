@@ -575,5 +575,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-02T08:58:36.282Z",
     "createdBy": "joshua"
+  },
+  {
+    "id": "pg-36",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Tax Accountants Australia Wide | Ideal Business Group",
+    "seoDescription": "Registered tax agent & CPA-qualified accountants Australia wide. Tax, accounting and SMSF services. Book an appointment on 1300 043 325.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-03T05:04:24.280Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-03T05:04:24.280Z",
+    "createdBy": "vipin"
   }
 ]
