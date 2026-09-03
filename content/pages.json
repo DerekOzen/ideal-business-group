@@ -712,5 +712,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-03T07:28:46.588Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-44",
+    "path": "/payroll-services",
+    "type": "service",
+    "title": "Outsourced Payroll Services Australia | Ideal Business Group",
+    "seoTitle": "Payroll Services Services Australia Wide | Ideal Business Group",
+    "seoDescription": "Reliable, compliant payroll and employee payment processing by a CPA-qualified team, servicing clients Australia wide. Call 1300 043 325.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-03T07:29:55.847Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-03T07:29:55.847Z",
+    "createdBy": "vipin"
   }
 ]
