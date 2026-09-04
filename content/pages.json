@@ -575,12 +575,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-09-03T05:52:41.266Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-04T03:18:49.803Z",
     "updatedBy": "vipin",
     "createdAt": "2026-09-02T06:37:46.573Z",
     "createdBy": "joshua",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-35",
