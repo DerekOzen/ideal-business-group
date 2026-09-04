@@ -798,5 +798,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-03T09:30:57.302Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-49",
+    "path": "/tax-calculator",
+    "type": "page",
+    "title": "Free Australian Income Tax Calculator | Ideal Business Group",
+    "seoTitle": "Free Australian Income Tax Calculator | Ideal Business Group",
+    "seoDescription": "Estimate your Australian income tax and take-home pay with our free calculator, then talk to a registered tax agent about improving your position.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-04T00:11:38.370Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-04T00:11:38.370Z",
+    "createdBy": "vipin"
   }
 ]
