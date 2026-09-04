@@ -814,5 +814,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T00:11:38.370Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-50",
+    "path": "/important-links",
+    "type": "page",
+    "title": "Important Links | ATO Tax Rates & Dates | Ideal Business Group",
+    "seoTitle": "Important Links | ATO Tax Rates & Dates | Ideal Business Group",
+    "seoDescription": "Quick links to ATO tax rates, lodgement due dates and business resources, from the registered tax agents and CPA-qualified team at Ideal Business Group.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-04T00:13:42.240Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-04T00:13:42.240Z",
+    "createdBy": "vipin"
   }
 ]
