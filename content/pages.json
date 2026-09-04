@@ -1154,5 +1154,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T10:40:20.203Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-70",
+    "path": "/company-trust-form",
+    "type": "page",
+    "title": "New Client Form for Companies & Trusts | Ideal Business Group",
+    "seoTitle": "New Client Form for Companies & Trusts | Ideal Business Group",
+    "seoDescription": "Start as a new company or trust client of Ideal Business Group. Complete the onboarding form and our registered tax agents will take it from there.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-04T11:06:52.732Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-04T11:06:52.732Z",
+    "createdBy": "vipin"
   }
 ]
