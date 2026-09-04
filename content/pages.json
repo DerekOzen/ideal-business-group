@@ -938,11 +938,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-09-04T01:09:38.258Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-04T11:06:17.829Z",
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T01:09:21.676Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-57",
