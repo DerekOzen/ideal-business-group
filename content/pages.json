@@ -1171,5 +1171,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T11:06:52.732Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-71",
+    "path": "/smsf-form",
+    "type": "page",
+    "title": "New Client Form for SMSFs | Ideal Business Group",
+    "seoTitle": "New Client Form for SMSFs | Ideal Business Group",
+    "seoDescription": "Start as a new self-managed super fund client of Ideal Business Group. Complete the onboarding form and our SMSF team will be in touch.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-04T11:22:25.707Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-04T11:22:25.707Z",
+    "createdBy": "vipin"
   }
 ]
