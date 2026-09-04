@@ -1086,5 +1086,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T08:29:26.917Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-66",
+    "path": "/setting-up-your-myid",
+    "type": "page",
+    "title": "Setting Up Your myID Step by Step | Ideal Business Group",
+    "seoTitle": "Setting Up Your myID Step by Step | Ideal Business Group",
+    "seoDescription": "How to set up your myID (formerly myGovID) and link it to your business, explained in plain English by Ideal Business Group.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-04T09:30:09.709Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-04T09:30:09.709Z",
+    "createdBy": "vipin"
   }
 ]
