@@ -1018,5 +1018,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T02:27:55.311Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-62",
+    "path": "/tax-accounting",
+    "type": "service",
+    "title": "Tax & Accounting",
+    "seoTitle": "Tax & Accounting Services Australia Wide | Ideal Business Group",
+    "seoDescription": "Tax compliance, lodgement, deductions and accounting by registered tax agents and a CPA-qualified team, servicing clients Australia wide. Call 1300 043 325.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-04T03:19:23.788Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-04T03:19:23.788Z",
+    "createdBy": "vipin"
   }
 ]
