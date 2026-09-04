@@ -1233,10 +1233,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-09-04T12:18:28.260Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-04T12:40:36.494Z",
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T12:16:45.173Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": false
   }
 ]
