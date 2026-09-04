@@ -831,5 +831,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T00:13:42.240Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-51",
+    "path": "/tax-facts",
+    "type": "page",
+    "title": "Australian Tax Facts & Reference Guide | Ideal Business Group",
+    "seoTitle": "Australian Tax Facts & Reference Guide | Ideal Business Group",
+    "seoDescription": "A plain-English reference to Australian tax: income tax, individuals, companies, partnerships, trusts, superannuation, GST, CGT and more.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-04T00:21:37.195Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-04T00:21:37.195Z",
+    "createdBy": "vipin"
   }
 ]
