@@ -1120,5 +1120,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T09:57:29.933Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-68",
+    "path": "/director-id-application-guide",
+    "type": "page",
+    "title": "Director ID Application Guide | Ideal Business Group",
+    "seoTitle": "Director ID Application Guide | Ideal Business Group",
+    "seoDescription": "A step by step guide to applying for your Director Identification Number, who needs one, what you need and how to complete the application.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-04T10:16:53.620Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-04T10:16:53.620Z",
+    "createdBy": "vipin"
   }
 ]
