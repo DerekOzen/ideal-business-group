@@ -469,11 +469,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-08-30T22:39:16.311Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T05:56:58.711Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-09-04T00:20:50.925Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-29",
