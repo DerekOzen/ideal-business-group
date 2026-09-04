@@ -1188,5 +1188,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T11:22:25.707Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-72",
+    "path": "/our-trusted-partners",
+    "type": "page",
+    "title": "Our Trusted Partners | Ideal Business Group",
+    "seoTitle": "Our Trusted Partners | Ideal Business Group",
+    "seoDescription": "Ideal Business Group's trusted partner network — property & investment, wealth & financial planning, lending, insurance & legal, and tax specialists, all through one point of contact.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-04T11:42:12.123Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-04T11:42:12.123Z",
+    "createdBy": "vipin"
   }
 ]
