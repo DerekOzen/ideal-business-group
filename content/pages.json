@@ -993,10 +993,10 @@
     "seoTitle": "About Us | Ideal Business Group",
     "seoDescription": "About Ideal Business Group — a trusted Inner West Sydney accounting firm serving businesses Australia-wide with accuracy, compliance and total financial solutions.",
     "layout": "mockup",
-    "headerPartId": null,
+    "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "draft",
-    "updatedAt": "2026-09-04T02:17:02.108Z",
+    "status": "published",
+    "updatedAt": "2026-09-04T02:17:24.423Z",
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T02:17:02.108Z",
     "createdBy": "vipin"
