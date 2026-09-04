@@ -955,11 +955,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-09-04T01:11:20.374Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-04T11:21:51.887Z",
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T01:11:03.715Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-58",
