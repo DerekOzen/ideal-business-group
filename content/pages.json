@@ -984,5 +984,21 @@
     "createdAt": "2026-09-04T01:56:15.536Z",
     "createdBy": "vipin",
     "isHome": true
+  },
+  {
+    "id": "pg-60",
+    "path": "/about",
+    "type": "page",
+    "title": "About Us | Ideal Business Group",
+    "seoTitle": "About Us | Ideal Business Group",
+    "seoDescription": "About Ideal Business Group — a trusted Inner West Sydney accounting firm serving businesses Australia-wide with accuracy, compliance and total financial solutions.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-04T02:17:02.108Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-04T02:17:02.108Z",
+    "createdBy": "vipin"
   }
 ]
