@@ -1256,5 +1256,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T12:41:02.013Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-76",
+    "path": "/terms-of-engagement",
+    "type": "page",
+    "title": "Terms of Engagement | Ideal Business Group",
+    "seoTitle": "Terms of Engagement | Ideal Business Group",
+    "seoDescription": "The terms on which Ideal Business Group provides accounting, tax and advisory services to its clients.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-04T13:27:00.087Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-04T13:27:00.087Z",
+    "createdBy": "vipin"
   }
 ]
