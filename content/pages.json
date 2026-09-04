@@ -921,11 +921,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-09-04T01:04:04.211Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-04T10:39:38.636Z",
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T01:03:46.677Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-56",
