@@ -899,5 +899,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T00:59:08.120Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-55",
+    "path": "/individual-partnership-form",
+    "type": "page",
+    "title": "New Client Form for Individuals & Partnerships | Ideal Business Group",
+    "seoTitle": "New Client Form for Individuals & Partnerships | Ideal Business Group",
+    "seoDescription": "Start as a new individual or partnership client of Ideal Business Group. Complete the secure onboarding form and our team will be in touch.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-04T01:03:46.677Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-04T01:03:46.677Z",
+    "createdBy": "vipin"
   }
 ]
