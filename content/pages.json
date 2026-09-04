@@ -804,11 +804,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-09-03T09:35:16.232Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-04T07:40:08.177Z",
     "updatedBy": "vipin",
     "createdAt": "2026-09-03T09:30:57.302Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-49",
