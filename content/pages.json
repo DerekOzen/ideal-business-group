@@ -1222,5 +1222,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T11:55:43.384Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-74",
+    "path": "/privacy-policy",
+    "type": "page",
+    "title": "Privacy Policy | Ideal Business Group",
+    "seoTitle": "Privacy Policy | Ideal Business Group",
+    "seoDescription": "How Ideal Business Group collects, stores, uses and protects your personal information, in line with Australian privacy law.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-04T12:16:45.173Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-04T12:16:45.173Z",
+    "createdBy": "vipin"
   }
 ]
