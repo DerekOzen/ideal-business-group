@@ -1307,5 +1307,21 @@
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T16:21:32.833Z",
     "createdBy": "vipin"
+  },
+  {
+    "id": "pg-79",
+    "path": "/disclaimer",
+    "type": "page",
+    "title": "Disclaimer | Ideal Business Group",
+    "seoTitle": "Disclaimer | Ideal Business Group",
+    "seoDescription": "Disclaimer covering the information published on the Ideal Business Group website and its intended use.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-04T16:27:02.636Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-04T16:27:02.636Z",
+    "createdBy": "vipin"
   }
 ]
