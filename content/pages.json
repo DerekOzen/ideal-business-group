@@ -607,12 +607,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-09-03T23:51:44.672Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-04T01:55:42.367Z",
     "updatedBy": "vipin",
     "createdAt": "2026-09-03T05:04:24.280Z",
     "createdBy": "vipin",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-37",
