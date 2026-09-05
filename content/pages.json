@@ -1287,11 +1287,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-09-04T16:01:47.885Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-05T10:05:30.868Z",
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T15:57:18.042Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-78",
