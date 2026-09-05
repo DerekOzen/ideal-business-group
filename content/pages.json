@@ -1352,10 +1352,11 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": "footer-4",
-    "status": "draft",
-    "updatedAt": "2026-09-05T10:06:08.599Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-05T10:17:05.768Z",
     "updatedBy": "vipin",
     "createdAt": "2026-09-05T10:06:08.599Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": false
   }
 ]
