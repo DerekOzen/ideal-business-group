@@ -1336,11 +1336,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-09-04T16:36:15.336Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-05T10:20:58.271Z",
     "updatedBy": "vipin",
     "createdAt": "2026-09-04T16:33:58.357Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-81",
