@@ -1358,5 +1358,21 @@
     "createdAt": "2026-09-05T10:06:08.599Z",
     "createdBy": "vipin",
     "isHome": false
+  },
+  {
+    "id": "pg-82",
+    "path": "/agent-linking-process",
+    "type": "page",
+    "title": "Agent Linking Process Explained Step by Step | Ideal Business Group",
+    "seoTitle": "Agent Linking Process Explained Step by Step | Ideal Business Group",
+    "seoDescription": "How to nominate Ideal Business Group as your tax agent in ATO Online services for business, explained step by step.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-09-05T10:17:47.165Z",
+    "updatedBy": "vipin",
+    "createdAt": "2026-09-05T10:17:47.165Z",
+    "createdBy": "vipin"
   }
 ]
