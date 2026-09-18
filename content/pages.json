@@ -994,11 +994,13 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-04T07:47:41.557Z",
-    "updatedBy": "vipin",
+    "updatedAt": "2026-09-18T01:48:54.814Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-09-04T01:56:15.536Z",
     "createdBy": "vipin",
-    "isHome": true
+    "isHome": true,
+    "featuredImage": "/uploads/business-advisory-reimagined-32db0949.jpg",
+    "featuredImageAlt": "A smiling tax accountant in a suit speaking with a client couple during a financial consultation in a modern office setting."
   },
   {
     "id": "pg-60",
