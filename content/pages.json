@@ -739,10 +739,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-04T12:49:01.963Z",
-    "updatedBy": "vipin",
+    "updatedAt": "2026-09-18T02:06:58.365Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-09-03T07:28:46.588Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "featuredImage": "/uploads/fringe-benefits-tax-return-b1718f0f.jpg",
+    "featuredImageAlt": "Computer screen displaying Fringe Benefits Tax return software alongside FBT reference books and a lodgement checklist on a desk."
   },
   {
     "id": "pg-44",
