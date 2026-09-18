@@ -1082,11 +1082,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-18T03:09:47.170Z",
+    "updatedAt": "2026-09-18T03:11:42.506Z",
     "updatedBy": "gabriel",
     "createdAt": "2026-09-04T06:13:32.682Z",
     "createdBy": "vipin",
-    "featuredImage": "/uploads/annual-trust-tax-return-bfc58641.jpg"
+    "featuredImage": "/uploads/annual-trust-tax-return-bfc58641.jpg",
+    "featuredImageAlt": "A tax accountant explaining trust tax return deductions and estimated tax savings to a client during an office meeting."
   },
   {
     "id": "pg-64",
