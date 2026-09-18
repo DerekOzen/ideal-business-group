@@ -667,10 +667,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-04T10:33:29.669Z",
-    "updatedBy": "vipin",
+    "updatedAt": "2026-09-18T01:54:29.691Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-09-03T06:33:23.223Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "featuredImage": "/uploads/when-should-businesses-lodge-bas-697aa7fa.jpg",
+    "featuredImageAlt": "Laptop displaying a quarterly BAS lodgement timeline alongside a desk calendar, calculator, and BAS checklist documents."
   },
   {
     "id": "pg-40",
