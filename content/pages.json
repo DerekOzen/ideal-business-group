@@ -757,10 +757,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-04T13:21:13.669Z",
-    "updatedBy": "vipin",
+    "updatedAt": "2026-09-18T02:10:42.036Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-09-03T07:29:55.847Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "featuredImage": "/uploads/payroll-services-193d0a65.jpg",
+    "featuredImageAlt": "Computer monitor showing a payroll dashboard with Single Touch Payroll and superannuation metrics on an office desk."
   },
   {
     "id": "pg-45",
