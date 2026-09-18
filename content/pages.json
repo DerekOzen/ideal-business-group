@@ -632,10 +632,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-04T09:11:28.880Z",
-    "updatedBy": "vipin",
+    "updatedAt": "2026-09-18T01:51:19.225Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-09-03T06:10:55.849Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "featuredImage": "/uploads/our-streamlined-tax-return-process-c68f1c31.jpg",
+    "featuredImageAlt": "Laptop displaying a company tax return workflow dashboard alongside financial reports, tax documents, and a calculator on an office desk."
   },
   {
     "id": "pg-38",
