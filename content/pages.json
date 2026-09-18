@@ -703,10 +703,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-04T11:36:41.499Z",
-    "updatedBy": "vipin",
+    "updatedAt": "2026-09-18T01:58:25.501Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-09-03T07:10:25.998Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "featuredImage": "/uploads/quarterly-bas-gst-year-end-tax-planning-88c4ebd1.jpg",
+    "featuredImageAlt": "A tax accountant reviewing year-end tax planning documents and cash flow charts with a client during a business consultation."
   },
   {
     "id": "pg-42",
