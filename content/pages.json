@@ -1006,10 +1006,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-04T01:21:14.445Z",
-    "updatedBy": "vipin",
+    "updatedAt": "2026-09-21T23:29:11.707Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-09-04T01:20:52.798Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "featuredImage": "/uploads/logo-1-b5c96694.jpg",
+    "featuredImageAlt": "Ideal Business Group company logo."
   },
   {
     "id": "pg-59",
