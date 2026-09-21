@@ -1429,10 +1429,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-05T10:20:03.510Z",
-    "updatedBy": "vipin",
+    "updatedAt": "2026-09-21T23:55:50.277Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-09-05T10:17:47.165Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "featuredImage": "/uploads/agent-linking-process-b7263ecc.jpg",
+    "featuredImageAlt": "Office desk setup featuring an agent linking portal on screen, showing 3-step instructions to authorize a tax agent."
   },
   {
     "id": "pg-83",
