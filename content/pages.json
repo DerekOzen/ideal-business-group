@@ -1150,10 +1150,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-04T15:41:51.115Z",
-    "updatedBy": "vipin",
+    "updatedAt": "2026-09-21T23:39:29.561Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-09-04T09:30:09.709Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "featuredImage": "/uploads/setting-up-your-myid-3f7d3f74.jpg",
+    "featuredImageAlt": "Laptop and smartphone displaying step-by-step setup instructions and login screens for the Australian myID app."
   },
   {
     "id": "pg-67",
