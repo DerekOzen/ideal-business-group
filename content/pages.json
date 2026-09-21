@@ -1284,10 +1284,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-04T12:41:29.706Z",
-    "updatedBy": "vipin",
+    "updatedAt": "2026-09-21T22:56:30.945Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-09-04T12:41:02.013Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "featuredImage": "/uploads/logo-1-b5c96694.jpg",
+    "featuredImageAlt": "Ideal Business Group company logo."
   },
   {
     "id": "pg-76",
