@@ -603,10 +603,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-04T09:24:23.986Z",
-    "updatedBy": "vipin",
+    "updatedAt": "2026-09-21T23:21:58.117Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-09-02T08:58:36.282Z",
-    "createdBy": "joshua"
+    "createdBy": "joshua",
+    "featuredImage": "/uploads/maximise-refunds-with-expert-tax-plannin-a40866f2.jpg",
+    "featuredImageAlt": "A smiling tax accountant reviewing individual tax return paperwork with a client in a modern office."
   },
   {
     "id": "pg-36",
