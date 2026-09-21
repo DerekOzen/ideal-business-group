@@ -550,8 +550,10 @@
     "status": "published",
     "createdAt": "2026-08-30T23:00:05.366Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-04T11:48:25.752Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-09-21T22:53:23.834Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/logo-1-b5c96694.jpg",
+    "featuredImageAlt": "Ideal Business Group company logo."
   },
   {
     "id": "pg-33",
