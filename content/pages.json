@@ -1449,9 +1449,11 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-05T10:22:11.044Z",
-    "updatedBy": "vipin",
+    "updatedAt": "2026-09-22T00:00:52.352Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-09-05T10:21:39.661Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "featuredImage": "/uploads/director-id-application-guide-83e1ba62.jpg",
+    "featuredImageAlt": "Modern desk setup with a laptop displaying a Director ID guide covering application steps and directorship rules."
   }
 ]
